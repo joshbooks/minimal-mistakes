@@ -9,6 +9,7 @@ for a while wondering what I could do for a job that involved computers.
 Then-- like the smart-ass kid I was, I got a System Administrator job at my 
 junior college by telling the head of IT the admin password for all the school 
 computers. 
+
 After a while it seemed like the most fun part of doing System
 Administration was writing scripts (still one of my great passions) because 
 every time I wrote a script it meant that there was another boring thing I
@@ -19,6 +20,7 @@ a bad word now that sketchy people who do bad things use it to describe
 themselves), a friend of mine calls it "artisan keyboard mashing." Call 
 it what you will, it's automating things that are super boring and/or 
 stressful to do by hand. 
+
 With that figured out I went to a real college to get a fancy degree so 
 I could get fancy jobs. While I was there I actually learned some stuff too. 
 Like how Operating Systems work, they're basically a accountants cum kindergarten 
@@ -29,6 +31,7 @@ I learned about algorithms too, it turns out that over the years a lot of really
 smart guys have figured out good general ways to do some surprisingly hard things 
 very efficiently and often very beautifully (don't believe me? look up a 
 visualization of Dijkstra's algorithm sometime). 
+
 After my first semester at college I figured I was basically amazing at 
 everything so I got a job at IBM that wound up lasting until 3 months after
 I graduated. My first boss was the best boss I have ever had, he looked at an
@@ -42,6 +45,7 @@ murder. I was doing less work (indeed for a few months I was doing literally
 no work) but it felt like the money (it was significantly more money than when
 I started) was less worth what I had to do to get it (show up to work at 9ish
 every day and sit on my hands for 8 hours). 
+
 Around this time I was living in a Hacker(/flop/shit) House(/hole) in San Jose,
 drinking a lot and watching a lot of Silicon Valley. It seemed like
 start-ups were the hot thing to do, and if you had good ideas and were willing
@@ -58,6 +62,7 @@ on the idea that they should spend money looking into what their employees were
 doing. Sell a sophisticated nanny-cam. I did it, and I did some of the best technical 
 work of my life, but a lot of engineers that I admire left when the CEO made that 
 decision and I often wonder if I should have left too. 
+
 When it became clear that the company was not long for this world I left for greener
 pastures. I could spend-- and have spent, entire days dissecting just exactly why the 
 company failed. Was it all my fault? There were 20-30 other people at the company and
