@@ -103,7 +103,7 @@ author:
   name             : "Josh Hight"
   avatar           : assets/me.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I take things apart and almost usually put them back together."
-  location         : "Somewhere"
+  location         : "San Francisco, CA"
   email            : me@joshbooks.com
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
