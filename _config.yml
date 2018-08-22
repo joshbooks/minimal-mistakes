@@ -20,7 +20,7 @@ title                    : "Nonconformist Orthodoxy"
 title_separator          : "-"
 name                     : "Josh Hight"
 description              : "All about me and my projects."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://www.joshbooks.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : joshbooks/joshbooks.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Josh Hight"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : assets/me.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I take things apart and almost usually put them back together."
   location         : "Somewhere"
   email            : me@joshbooks.com
