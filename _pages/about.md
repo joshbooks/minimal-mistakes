@@ -23,12 +23,12 @@ stressful to do by hand.
 
 With that figured out I went to a real college to get a fancy degree so 
 I could get fancy jobs. While I was there I actually learned some stuff too. 
-Like how Operating Systems work, they're basically a accountants cum kindergarten 
-teachers, they just maintain a bunch of tables and lists to keep track of what
+Like how Operating Systems work, they're basically accountants cum kindergarten 
+teachers. They just maintain a bunch of tables and lists to keep track of what
 programs are using what physical resources (memory, CPU time, etc) so that it 
 can keep programs from running into each other or doing mean things on the sly. 
 I learned about algorithms too, it turns out that over the years a lot of really 
-smart guys have figured out good general ways to do some surprisingly hard things 
+smart people have figured out good general ways to do some surprisingly hard things 
 very efficiently and often very beautifully (don't believe me? look up a 
 visualization of Dijkstra's algorithm sometime). 
 
@@ -39,14 +39,17 @@ angry kid with a lot of issues and saw someone who would work hard and do good
 things if dealt with gently. While I was working for him I automated a release
 process (by writing a transpiler in bash), a source code license updating problem
 (by writing an Ant script that wrote an Ant script and then executed it), and a
-number of other smaller tasks. Then IBM started going through a reorg (still
-ongoing three years later) and I stopped feeling like I was getting away with 
+number of other smaller tasks. Then IBM started going through a reorg (reorginization
+to those lucky enough to be unfamiliar, it's where a company fires people, then decides
+who should manage who now that there are less people and if you're now a manager your
+first job is to fire some more people, three years later this particular reorg is still 
+ongoing) and I stopped feeling like I was getting away with 
 murder. I was doing less work (indeed for a few months I was doing literally 
 no work) but it felt like the money (it was significantly more money than when
 I started) was less worth what I had to do to get it (show up to work at 9ish
 every day and sit on my hands for 8 hours). 
 
-Around this time I was living in a Hacker(/flop/shit) House(/hole) in San Jose,
+Around this time I was living in a hacker house in San Jose (with 8 other people),
 drinking a lot and watching a lot of Silicon Valley. It seemed like
 start-ups were the hot thing to do, and if you had good ideas and were willing
 to work hard you could do great things. So I joined a start up that you'll
