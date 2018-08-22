@@ -1,0 +1,4 @@
+---
+permalink: /cv/
+layout: splash
+---
