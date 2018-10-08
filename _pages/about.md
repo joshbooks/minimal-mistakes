@@ -45,9 +45,7 @@ who should manage who now that there are less people and if you're now a manager
 first job is to fire some more people, three years later this particular reorg is still 
 ongoing) and I stopped feeling like I was getting away with 
 murder. I was doing less work (indeed for a few months I was doing literally 
-no work) but it felt like the money (it was significantly more money than when
-I started) was less worth what I had to do to get it (show up to work at 9ish
-every day and sit on my hands for 8 hours). 
+no work) but it felt like the money wasn't worth sitting on my hands for 8 hours a day.
 
 Around this time I was living in a hacker house in San Jose (with 8 other people),
 drinking a lot and watching a lot of Silicon Valley. It seemed like
@@ -60,11 +58,10 @@ look inside files as they were added and modified to see what was inside them.
 At first the company was into encryption, so the indexer's job was to determine
 how those files should be encrypted based on the content of those files, which
 I thought then and think now is the future of security. Then that wasn't making
-money so the CEO decided that we should just sell the indexer. Sell companies
-on the idea that they should spend money looking into what their employees were 
-doing. Sell a sophisticated nanny-cam. I did it, and I did some of the best technical 
-work of my life, but a lot of engineers that I admire left when the CEO made that 
-decision and I often wonder if I should have left too. 
+money so the CEO decided that we should just sell the indexer as a sophisticated 
+nanny-cam. I did it, and I did some of the best technical work of my life, but a 
+lot of engineers that I admire left when the CEO made that decision and I often 
+wonder if I should have left too. 
 
 When it became clear that the company was not long for this world I left for greener
 pastures. I could spend-- and have spent, entire days dissecting just exactly why the 
@@ -73,6 +70,6 @@ I had gotten out of college 3 months before I started, so it probably wasn't all
 fault. I was there and I was a significant part of the company so I'm definitely inculpated.
 Ultimately that question is moot. It did fail, so now I have to learn all I can from the
 experience and move on. Now I work at Rubrik Inc, where we sell backup and recovery. It's
-not glamorous work, but it's a moral neutral-leaning-positive and there are plenty of boring
-and stressful things that need automating.
+not glamorous work, but it's morally justified and there are plenty of boring and stressful
+things that need automating.
 
