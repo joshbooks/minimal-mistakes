@@ -1,4 +1,5 @@
 ---
+header: assets/header_image.jpg
 title: What's Broken?
 permalink: /
 ---
