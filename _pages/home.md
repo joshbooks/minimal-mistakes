@@ -3,7 +3,6 @@ header: assets/header_image.jpg
 title: What's Broken?
 permalink: /
 ---
-<meta name="google-site-verification" content="At4gJ0S6DBgxAkyAbNkYtYFGlGhJwgECxa2bY68mTMQ" />
 I spend most of my time building stuff. I like to think I've gotten 
 pretty good at it.
 
